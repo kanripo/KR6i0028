@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:08.508323
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:27
 #+TITLE: 一切佛菩薩名集
 #+PROPERTY: CBETA_ID F28n1072
 #+PROPERTY: ID KR6i0028
 #+PROPERTY: SOURCE Fangshan shijing Vol. 28, No. 1072
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION F
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0028_F_017-0436a> 
 #+PROPERTY: JUAN 17
-
- 一切佛菩[薩-產+(辛/工)]名集卷第十七　　　多¶
+一切佛菩[薩-產+(辛/工)]名集卷第十七　　　多¶
 利州太子寺講經論比丘　德雲　集¶
 
-菩薩名第二¶
+* 菩[薩-產+(辛/工)]名第二¶
 
   
   * 南无海覺菩[薩-產+(辛/工)]
@@ -1214,7 +1213,7 @@
   * 南无寶光菩[薩-產+(辛/工)]
   * 南无意無限菩[薩-產+(辛/工)]
 <pb:KR6i0028_F_017-0444b>¶
-  * 南无橋日兜菩[薩-產+(辛/工)]
+  * 南无橋曰兜菩[薩-產+(辛/工)]
   * 南无[颱-台+犮]陁和菩[薩-產+(辛/工)]
   * 南无智積菩[薩-產+(辛/工)]¶
   * 南无定發心菩[薩-產+(辛/工)]

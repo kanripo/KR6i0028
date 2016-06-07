@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:08.388831
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:27
 #+TITLE: 一切佛菩薩名集
 #+PROPERTY: CBETA_ID F28n1072
 #+PROPERTY: ID KR6i0028
 #+PROPERTY: SOURCE Fangshan shijing Vol. 28, No. 1072
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION F
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0028_F_014-0408a> 
 #+PROPERTY: JUAN 14
-
- 一切佛菩[薩-產+(辛/工)]名集卷第十四　　　多¶
+一切佛菩[薩-產+(辛/工)]名集卷第十四　　　多¶
 利州太子寺講經論比丘　德雲　集¶
 
   
